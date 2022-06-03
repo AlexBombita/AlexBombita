@@ -50,18 +50,18 @@
 
 <h2>Tech Skills</h2>
 
-<!-- <img src=./Assets/img/Logos/png/CSharp.png alt="C Charp Logo" height=64px/><img src="./Assets/img/Logos/png/Github.png" alt="Github Logo" height=64px/> -->
+<!-- i -->
 <img src="./Assets/img/Logos/png/Python.png" alt="Python Logo" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="React Logo" height=64px/>
 <img src="./Assets/img/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/><img src="./Assets/img/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
 <img src="./Assets/img/Logos/png/Mongo.png" alt="MongoDB Logo" height=64px/><img src="./Assets/img/Logos/png/Unity.png" alt="Unity Logo" height=64px/>
 
 <hr>
-<p>* Not all live Links may work. If there are repo links that do not work let me know and I'll update them.</p>
+<!-- <p>* Not all live Links may work. If there are repo links that do not work let me know and I'll update them.</p> -->
 
-<h2>
+<!-- <h2>
                 <b><img src=./Assets/img/babybird.ico style="height:32px"/>Baby Bird | <a href="https://github.com/bdulude/twitter-baby-birding">Github</a> | <a href="http://penguin.recipes/">Live</a></b>
-</h2>
-<table>
+</h2> -->
+<!-- <table>
     <tr>
         <td width=50%>
             <p>Except it's with Tweets instead of partially digested fish</p>
@@ -72,11 +72,11 @@
             <img src=./Assets/img/TweetGenerator.gif alt="Baby Bird Tweet Generator Gif" width=500px>
         </td>
     </tr>
-</table>
+</table> -->
 
-<h2>
+<!-- <h2>
     <b>React Messaging | <a href="https://github.com/CurryFriedRice/react_messaging">Github</a> <!--| <a>Live</a--></b>  
-</h2>
+<!-- </h2>
 <table>
     <tr>
         <td width=50%>
@@ -87,14 +87,14 @@
             <p>This web Application utilizes a full MERN stack and focuses around utilizing socket.io to create real time messaging between multiple clients.</p>
             <p>A quick prototype to build out functionality and undertand the underlaying foundations of web socket communications.</p>
         </td>
-    </tr>
-</table>
+    </tr> -->
+<!-- </table> --> -->
 
 
-<h2>
+<!-- <h2>
   <b>Master Duel Deck Builder | <a href="https://github.com/CurryFriedRice/masterduel_deckbuilder">Github</a> <!--| a>Live</a--></b>  
-</h2>
-<table>
+</h2> -->
+<!-- <table>
     <tr>
         <td width=50%>
             <p>An online deckbuilding service for the online card game Yu-gi-oh master duel.<p>
@@ -105,7 +105,7 @@
             <img src=./Assets/img/masterduel/dashboard.gif alt="Deck Builder Gif"style="width:500px">
         </td>
     </tr>
-</table>
+</table> -->
 
 
 
