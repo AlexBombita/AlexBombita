@@ -75,7 +75,7 @@
 </table> -->
 
 <!-- <h2>
-    <b>React Messaging | <a href="https://github.com/CurryFriedRice/react_messaging">Github</a> <!--| <a>Live</a--></b>  
+    <b>React Messaging | <a href="https://github.com/CurryFriedRice/react_messaging">Github</a> | <a>Live</a</b>  
 <!-- </h2>
 <table>
     <tr>
@@ -88,12 +88,12 @@
             <p>A quick prototype to build out functionality and undertand the underlaying foundations of web socket communications.</p>
         </td>
     </tr> -->
-<!-- </table> --> -->
+<!-- </table> -->
 
 
 <!-- <h2>
-  <b>Master Duel Deck Builder | <a href="https://github.com/CurryFriedRice/masterduel_deckbuilder">Github</a> <!--| a>Live</a--></b>  
-</h2> -->
+  <b>Master Duel Deck Builder | <a href="https://github.com/CurryFriedRice/masterduel_deckbuilder">Github</a> <!--| a>Live</a</b>  
+</h2> 
 <!-- <table>
     <tr>
         <td width=50%>
@@ -110,7 +110,7 @@
 
 
 
-<hr>
+<!-- <hr> -->
 
 <!-- TODO -->
 <!-- 
