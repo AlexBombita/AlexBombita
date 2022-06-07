@@ -51,9 +51,13 @@
 <h2>Tech Skills</h2>
 
 <!-- i -->
-<img src="./Assets/img/Logos/png/Python.png" alt="Python Logo" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="React Logo" height=64px/>
-<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/><img src="./Assets/img/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
+<img src="./Assets/img/Logos/png/Python.png" alt="Python Logo" height=64px/>
+<img src="./Assets/img/Logos/png/java.png" alt="Java Logo" height=64px/>
+<img src="./Assets/img/Logos/png/React.png" alt="React Logo" height=64px/>
+<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/>
+<img src="./Assets/img/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
 <img src="./Assets/img/Logos/png/Mongo.png" alt="MongoDB Logo" height=64px/>
+<img src="./Assets/img/Logos/png/mysql.png" alt="MySQL" height=64px/>
 <!-- <img src="./Assets/img/Logos/png/Unity.png" alt="Unity Logo" height=64px/> -->
 
 <hr>
