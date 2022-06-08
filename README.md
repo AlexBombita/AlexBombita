@@ -25,7 +25,8 @@
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- GET A REAL BANNER -->
-
+<br>
+<br>
 <table>
   <tr>
     <td style="width:50%">
