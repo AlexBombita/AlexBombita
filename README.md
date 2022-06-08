@@ -20,7 +20,7 @@
 </a>
 <a href="https://discordapp.com/users/943243380253683783">
   <img align="left" alt="Alex's Discord" height="25px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<a href="https://alexanderbombita.slack.com/U03KJJYLZ24">
+<a href="https://alexanderbombita.slack.com/team/U03KJJYLZ24">
   <img align="left" alt="Alex's Slack" height="25px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
