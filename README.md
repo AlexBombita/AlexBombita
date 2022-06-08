@@ -15,20 +15,22 @@
 <!-- <a href="https://www.instagram.com/abhisheknaiidu/">
     <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
+<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
+  <img align="left" alt="Alex's LinkedIN" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://discordapp.com/users/943243380253683783">
-  <img align="left" alt="Alex's Discord" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Alex's Discord" height="25px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discordapp.com/users/943243380253683783">
+  <img align="left" alt="Alex's Discord" height="25px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
+  <img align="left" alt="Alex's Gmail" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <!-- <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
-  <img align="left" alt="Alex's LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
   <img align="left" alt="Alex's Signal" height="25px" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
-<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
-  <img align="left" alt="Alex's Gmail" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
   <img align="left" alt="Alex's Gmail" height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
