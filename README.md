@@ -12,7 +12,18 @@
 -->
 
 # Hi there 👋
-
+<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
+    <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a> -->
+<a href="https://discordapp.com/users/943243380253683783">
+  <img align="left" alt="Alex's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<!-- <a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> -->
+<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
+  <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <!-- GET A REAL BANNER -->
 
 <table>
