@@ -23,7 +23,7 @@
 <a href="https://alexanderbombita.slack.com/team/U03KJJYLZ24">
   <img align="left" alt="Alex's Slack" height="25px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
+<a href="mailto:alexander.bombita@gmail.com">
   <img align="left" alt="Alex's Gmail" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <!-- <a href="https://twitter.com/abhisheknaiidu">
