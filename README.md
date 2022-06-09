@@ -29,7 +29,7 @@
 <!-- <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
+<a href="https://signal.group/#CjQKIBl0Xvpf6FEdw-iFcwXtt4Lx74Cx-ULX1JILMc2bE31CEhBGQRPJk4BHnPAVtA0dNgUs">
   <img align="left" alt="Alex's Signal" height="25px" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
 <a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
   <img align="left" alt="Alex's Gmail" height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
