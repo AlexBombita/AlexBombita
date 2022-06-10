@@ -31,8 +31,8 @@
 </a> -->
 <a href="https://signal.group/#CjQKIBl0Xvpf6FEdw-iFcwXtt4Lx74Cx-ULX1JILMc2bE31CEhBGQRPJk4BHnPAVtA0dNgUs">
   <img align="left" alt="Alex's Signal" height="25px" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
-<a href="https://www.linkedin.com/in/alex-bombita-a02a67240/">
-  <img align="left" alt="Alex's Gmail" height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=+17077314225&text&app_absent=0">
+  <img align="left" alt="Alex's WhatsApp" height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <!-- GET A REAL BANNER -->
 
