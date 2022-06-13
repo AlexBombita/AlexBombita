@@ -52,9 +52,10 @@
             <!-- </ul> -->
         <li> 🔭 I am currently Seeking Work! </li>
         <li> :computer: <b>Interested In:</b>Full Stack Development, Artificial Intelligence, Augmented Reality, Virtual Reality</li>
-        <li> :weight_lifting_: <b>Hobbies:</b>
+        <li> :weight_lifting_man: <b>Hobbies:</b>
           <ul>
             <li> Physical Fitness </li>
+            <li> Martial Arts </li>
             <li> Sports </li> 
             <li> Movies </li>
           </ul>
