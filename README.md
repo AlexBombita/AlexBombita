@@ -12,6 +12,7 @@
 -->
 
 # Hi there 👋
+
 <!-- <a href="https://www.instagram.com/abhisheknaiidu/">
     <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
@@ -43,18 +44,19 @@
     <td style="width:50%">
       <ul>
         <li> 📛 <b>Name:</b> Alex Bombita</li>
+        <li> 📛 United States Air Force Veteran</li>
         <!-- <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li>Learning Unity</li>
                 <li>Discord Sticker Chatbot</li> -->
             <!-- </ul> -->
         <li> 🔭 I am currently Seeking Work! </li>
-        <li> 🌽 <b>Interested In:</b> Augmented Reality, Virtual Reality, Full Stack Development</li>
+        <li> 🌽 <b>Interested In:</b>Full Stack Development, Artificial Intelligence, Augmented Reality, Virtual Reality</li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
             <li> Physical Fitness </li>
             <li> Sports </li> 
-            <li> AI </li>
+            <li> Movies </li>
           </ul>
         </li>
         <!-- <li> 💬 How was your Day? </li> -->
