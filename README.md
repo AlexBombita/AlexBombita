@@ -44,7 +44,7 @@
     <td style="width:50%">
       <ul>
         <li> 📛 <b>Name:</b> Alex Bombita</li>
-        <li> 📛 United States Air Force Veteran</li>
+        <li> :us: United States Air Force Veteran</li>
         <!-- <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li>Learning Unity</li>
