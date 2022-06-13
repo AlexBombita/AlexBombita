@@ -51,8 +51,8 @@
                 <li>Discord Sticker Chatbot</li> -->
             <!-- </ul> -->
         <li> 🔭 I am currently Seeking Work! </li>
-        <li> 🌽 <b>Interested In:</b>Full Stack Development, Artificial Intelligence, Augmented Reality, Virtual Reality</li>
-        <li> 🎮 <b>Hobbies:</b>
+        <li> :computer: <b>Interested In:</b>Full Stack Development, Artificial Intelligence, Augmented Reality, Virtual Reality</li>
+        <li> :weight_lifting_: <b>Hobbies:</b>
           <ul>
             <li> Physical Fitness </li>
             <li> Sports </li> 
@@ -61,7 +61,7 @@
         </li>
         <!-- <li> 💬 How was your Day? </li> -->
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-        <li> 🗃 <a href="https://drive.google.com/file/d/18ubIiwFOc_NGa3v6ZKLr1nO13fjHmaJA/view?usp=sharing"> My Resume! </a> </li>
+        <li> :page_facing_up: <a href="https://drive.google.com/file/d/18ubIiwFOc_NGa3v6ZKLr1nO13fjHmaJA/view?usp=sharing"> My Resume! </a> </li>
     </td>
     <!-- <td style="width:50%">
         <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
