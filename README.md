@@ -62,7 +62,7 @@
         </li>
         <!-- <li> 💬 How was your Day? </li> -->
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-        <li> :page_facing_up: <a href="https://drive.google.com/file/d/1PGDBMv27q0d70QYP_y5c-QScy7qaX0y5/view?usp=share_link"> My Resume! </a> </li>
+        <li> :page_facing_up: <a href="https://drive.google.com/file/d/1PGDBMv27q0d70QYP_y5c-QScy7qaX0y5/view?usp=share_link" target="_blank"> My Resume! </a> </li>
     </td>
     <!-- <td style="width:50%">
         <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
